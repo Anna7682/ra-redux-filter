@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/6crv4art4yvlkkv3?svg=true)](https://ci.appveyor.com/project/vapanov/ra-redux-filter)
+[![Build status](https://ci.appveyor.com/api/projects/status/9ymykyr9os4kn76n?svg=true)](https://ci.appveyor.com/project/Anna7682/ra-redux-filter)
 
 WEB VERSION https://anna7682.github.io/ra-redux-filter/
 
