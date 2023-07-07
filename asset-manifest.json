@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-redux-filter/static/css/main.8ab3c1bd.chunk.css",
+    "main.js": "/ra-redux-filter/static/js/main.22d45cbb.chunk.js",
+    "main.js.map": "/ra-redux-filter/static/js/main.22d45cbb.chunk.js.map",
+    "runtime-main.js": "/ra-redux-filter/static/js/runtime-main.95696924.js",
+    "runtime-main.js.map": "/ra-redux-filter/static/js/runtime-main.95696924.js.map",
+    "static/js/2.0da07916.chunk.js": "/ra-redux-filter/static/js/2.0da07916.chunk.js",
+    "static/js/2.0da07916.chunk.js.map": "/ra-redux-filter/static/js/2.0da07916.chunk.js.map",
+    "static/js/3.32ac2c41.chunk.js": "/ra-redux-filter/static/js/3.32ac2c41.chunk.js",
+    "static/js/3.32ac2c41.chunk.js.map": "/ra-redux-filter/static/js/3.32ac2c41.chunk.js.map",
+    "index.html": "/ra-redux-filter/index.html",
+    "static/css/main.8ab3c1bd.chunk.css.map": "/ra-redux-filter/static/css/main.8ab3c1bd.chunk.css.map",
+    "static/js/2.0da07916.chunk.js.LICENSE.txt": "/ra-redux-filter/static/js/2.0da07916.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95696924.js",
+    "static/js/2.0da07916.chunk.js",
+    "static/css/main.8ab3c1bd.chunk.css",
+    "static/js/main.22d45cbb.chunk.js"
+  ]
+}
